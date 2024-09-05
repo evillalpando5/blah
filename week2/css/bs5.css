@@ -1,0 +1,10 @@
+.custom-color {
+    background-color: slategray;
+    border: solid black 1px;
+    height: 100px
+}
+.custom-color2 {
+    background-color: yellow;
+    border: solid black 1px;
+
+}
