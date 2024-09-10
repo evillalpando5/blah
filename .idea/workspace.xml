@@ -5,26 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e40017b-b3cd-41c1-a450-5cb923131cbe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week2/StickyBootstrapPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/css/BS_sticky.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/css/bs5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/imgs/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/blah.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blah.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/aboutUs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/css/aboutPage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 1/.idea/untitled folder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week1/.idea/untitled folder.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 1/booksRus.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1/booksRus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 1/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/week1/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 1/css/secondary.css" beforeDir="false" afterPath="$PROJECT_DIR$/week1/css/secondary.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 1/fellow.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1/fellow.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 1/imgs/american.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/week1/imgs/american.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 1/imgs/fellow.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/week1/imgs/fellow.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 1/imgs/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/week1/imgs/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 1/imgs/verity.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/week1/imgs/verity.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 1/oppy.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1/oppy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 1/verity.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1/verity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/css/bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/week2/bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/booksRus.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1/booksRus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/week1/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/css/secondary.css" beforeDir="false" afterPath="$PROJECT_DIR$/week1/css/secondary.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/fellow.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1/fellow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/oppy.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1/oppy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/verity.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1/verity.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/week2/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,23 +40,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/erikavillalpando/Desktop/webstorm/blah/week2/imgs",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/erikavillalpando/Desktop/webstorm/blah/week2/imgs&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/week2/imgs" />
@@ -89,7 +79,8 @@
       <workItem from="1725036500828" duration="1000" />
       <workItem from="1725382634685" duration="9008000" />
       <workItem from="1725403014220" duration="356000" />
-      <workItem from="1725560410306" duration="6563000" />
+      <workItem from="1725560410306" duration="6823000" />
+      <workItem from="1725659038324" duration="8055000" />
     </task>
     <servers />
   </component>

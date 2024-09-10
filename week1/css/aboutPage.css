@@ -1,0 +1,39 @@
+body {
+    background-color: #dfd3c3;
+    margin: 0;
+}
+#title {
+    margin-top: 0;
+
+}
+#top {
+    text-align: center;
+    padding: 90px;
+    background-color: #596e79;
+    color: #dfd3c3;
+    position: fixed;
+    width: 90%;
+    font-size: 30px;
+}
+#books {
+    text-align: center;
+    height: 260px;
+}
+#info {
+    position: fixed;
+    text-align: center;
+    margin-left: 21%;
+    padding-top: 180px;
+}
+p {
+    font-size: 20px;
+}
+strong {
+    color: #596e79;
+}
+#button{
+    background-color: #c7b198;
+    padding: 5px;
+    width: 100px;
+    margin-left: 44%;
+}

@@ -4,11 +4,11 @@ header {
 }
 
 #headerTitle {
-    font-size: 30px;
+    font-size: 40px;
     font-family: "Arial Black";
     text-align: center;
     position: relative;
-    top: 50px;
+    top: 40px;
 }
 
 #logo {
@@ -23,9 +23,12 @@ body {
     font-size: 20px;
     margin: 0;
     padding: 0;
-    background-color: #c7b198;
+    background-color: #f0ece2;
 }
 h2 {
+    text-align: center;
+}
+#tag {
     text-align: center;
 }
 #mainTable {
@@ -34,7 +37,17 @@ h2 {
 #mainTable, tr, th, td {
     border-collapse: collapse;
     border: 1px solid;
-    padding: 10px;
+    padding: 30px;
+    /*background-color: #596e79;*/
+
+}
+table {
+    width: 500px;
+}
+#titleRow {
+    background-color: #c7b198 ;
+}
+.row {
     background-color: #dfd3c3;
 }
 #table {
@@ -48,5 +61,6 @@ footer {
     font-size: 15px;
     position: absolute;
     width: 100%;
-    margin-top:26%;
+    margin-top:10%;
+    padding: 10px;
 }

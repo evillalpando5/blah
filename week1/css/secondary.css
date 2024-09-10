@@ -1,14 +1,16 @@
 body {
-    background-color: #596e79;
+    background-color: #dfd3c3;
     color:  #c7b198;
+    margin: 0;
 }
 h1 {
     font-size: 30px;
     padding: 25px;
-    background-color: #c7b198;
+    background-color: #596e79;
     color: #dfd3c3;
-    width: 35%;
-
+    width: 100%;
+    height: 40px;
+    margin: 0;
 }
 #bookBox{
     padding-left: 5%;
@@ -19,8 +21,8 @@ h1 {
     height: 240px;
 }
 #summaryBox {
-    background-color: #dfd3c3;
-    margin: 10% 0 0 30%;
+    background-color: #c7b198;
+    margin: 2% 0 0 30%;
     width: 60%;
     color: black;
     padding: 15px;
@@ -31,6 +33,9 @@ h1 {
 #summaryTitle {
     text-align: center;
 }
+h2{
+    color: #596e79;
+}
 
 #button {
     background-color: #c7b198;
@@ -39,5 +44,4 @@ h1 {
     padding: 5px;
     width: 60px;
     margin-left: 80%;
-
 }
