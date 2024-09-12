@@ -46,13 +46,13 @@ function orderThatV3(id){
     let myNum = 4;
     let myList = [];
     let myOb ={}
-    let student = { //Object literal
+    let student = { //Object literal let name = {}
         name: 'Jack',
         age: 22,
         gpa: 3.55,
         courses: ['CSC1700', 'CSC2200']
     }
-    let studentV2 = [ //array with object literals as the items
+    let studentV2 = [ //array with  3 object literals as the items let name = [{},{},{}]
         {
             name: 'Jack',
             age: 22,
@@ -98,9 +98,9 @@ function orderThatV4(){
     console.log(myVar)
     console.log(myVar2)
     console.log(myVar3)
-    if (myVar2 == undefined) {
+    if (myVar3 == null) {
         alert("null")
     }
-
-
 }
+
+//

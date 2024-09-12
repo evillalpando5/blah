@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        items = [
+            {
+                cost: 12.99,
+                title:"American Prometheus",
+                author: "Bird and Sherwin",
+                description: "Oppenheimer, WW2,  and Atomic Bomb"
+            },
+            {
+                cost: 10.99,
+                title:"Educated",
+                author: "Tara Westover",
+                description: "Growing up in Rural Utah and authors escape"
+            },
+            {
+                cost: 11.99,
+                title:"The Fellowship of the Ring",
+                author: "J.R. Tolkien",
+                description: "The first book of the LOTR trilogy"
+            } // put select ag with id and add append on to it the ooptions
+        ]
+        function showTable() {
+            console.log("Starting ... ")
+            setTimeout( ()=>{
+                //here
+                console.log("Time is up")
+            }, 2000)
+            console.log("Ending..... ")
+            let oStr = "";
+            for (let i = 0; i < items.length; i++) {
+                let obj = items[i];
+                let row = `<tr> <td> ${obj.title} </td>`;
+                row += ` <td>${obj.author}</td>`;
+                row += `<td> ${obj.cost}</td>`;
+                row += `<td>${obj.description}</td>`;
+                row += `</tr>`;
+
+                oStr += row;
+                document.getElementById("tableMain").innerHTML = oStr;
+
+                }
+            }
+
+            function countClick(id) {
+                let item = items[id];
+                total += item.cost;
+                document.getElementById("totals").innerHTML = `Total Cost:${total}`;
+                console.log("lol")
+            }
+    </script>
+
+</head>
+<body onload="showTable()">
+<header>
+    <h2> Our Best Sellers </h2>
+</header>
+<main>
+    <table id="bookTable" border = 1>
+        <thead>
+            <tr>
+                <th> Title </th> <th>  Author  </th> <th> Cost </th> <th> Description </th>
+            </tr>
+        </thead>
+        <tbody id="tableMain">
+
+        </tbody>
+    </table>
+</main>
+<div id="totals"> </div>
+</body>
+</html>

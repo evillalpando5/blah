@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e40017b-b3cd-41c1-a450-5cb923131cbe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week1/aboutUs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/css/aboutPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/booksRus.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1/booksRus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/week1/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/css/secondary.css" beforeDir="false" afterPath="$PROJECT_DIR$/week1/css/secondary.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/fellow.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1/fellow.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/oppy.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1/oppy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/verity.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1/verity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/week2/css/main.css" afterDir="false" />
-    </list>
+    <list default="true" id="4e40017b-b3cd-41c1-a450-5cb923131cbe" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +15,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -81,6 +71,7 @@
       <workItem from="1725403014220" duration="356000" />
       <workItem from="1725560410306" duration="6823000" />
       <workItem from="1725659038324" duration="8055000" />
+      <workItem from="1725992337811" duration="6099000" />
     </task>
     <servers />
   </component>
