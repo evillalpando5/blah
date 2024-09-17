@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>BOOKS R US </title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">    <link href="css/bs5.css"  rel="stylesheet" />
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="css/BS_sticky.css">
+    <link rel="stylesheet" href="css/bRus.css">
 </head>
 <body>
 <header>
@@ -19,7 +19,7 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <ul class="navbar-nav me-auto mb-2 mb-md-0">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="StickyBootstrapPage.html"> Home</a>
+                        <a class="nav-link active" aria-current="page" href="bootstrap.html"> Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="aboutUs.html">About Us</a>
@@ -27,16 +27,33 @@
                 </ul>
 
             </div>
+            <div id="headerT" class="collapse navbar-collapse" >
+                Books R Us
+            </div>
         </div>
     </nav>
 </header>
-<div id="aboutUsSummary">
-    <p> Books R Us is an amazing company founded by David Lash a computer science genius that enjoys reading books
-        on his free time. </p>
+<div class="container-fluid">
+    <div class="row custom-row">
+        <div class="col-lg-4 " id="left-side">
+            <span id="sale">  On Sale NOW! </span> <br>
+            Lord of the Rings
+            <img id="saleBook" src="imgs/fellow.jpeg" alt="the fellowship book cover">
+        </div>
+
+        <div class="col-lg-8" id="aboutUsSummary">
+            <span id="summaryTitle"> A Little About Us </span>
+            <p> Books R Us was founded in September 2024. We are a local business here in Aurora, Illinois. Our mission is to make reading and learning fun and easy for all ages. Whether you like drama, sci-fi, romance, fiction, or non-fiction we have it all for you here. On our home page you can find our monthly best sellers and a special book on sale this month. We hope to meet all you’re exceptions and have every book you might ever want and need.
+                    <br> <br>
+                If you have a special book you love that you don’t see feel free to contact us at support@booksRus.com as well as with any comments or concerns.
+            </p>
+        </div>
+    </div>
 </div>
-<footer class="footer mt-auto py-3 bg-light">
+
+<footer class="footer mt-auto py-3 bg-dark-subtle">
     <div class="container">
-        <span class="text-muted"> Made by david lash 2024. Please don't sue me</span>
+        <span class="text-muted"> Made by Erika Villalpando 2024. Please don't sue me</span>
     </div>
 </footer>
 

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+  <script>
+    const person ={
+      name: "Jill",
+      age: 20,
+      showInfo() {
+        console.log(`name: ${this.name}`)
+      }
+    }
+    function doSomeStuff(n, a, m){
+      person.showInfo();
+      person.age = 122;
+      let {name, age} = person; // deconstruct the name and age out of person
+
+      alert(`username: ${age}`)
+      alert(`username: ${name}`)
+      alert(`username: ${n}`)
+      const teams = ["hawks", "bears", "sox", "cubs", 22]
+      const [team1, team2] = teams;
+
+      // objects returned on the fly
+      return (
+              `Name: ${n}` +
+              `Age: ${a}`
+      )
+
+    }
+    const doSomeStuff2 = (n, a, m ) => { //anonymous function variable is given that function name
+      alert(`username: ${n}`);
+    }
+    function starter1 (){
+      let res = doSomeStuff("Jack", 12, false);
+      let res2 = add(5, 5);
+      let res3 = add3;
+    }
+    // different way to make anonymous functions in java
+    const add = (a, b) => a + b; // one line function doesn't need curly brackets
+    const add2 = a => (a) + 6;
+    const add3 = () => 2+4
+
+  </script>
+</head>
+<body onLoad="doSomeStuff('Jack', 22, true)">
+<h2> hello there </h2>
+</body>
+</html>

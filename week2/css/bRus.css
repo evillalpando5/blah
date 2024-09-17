@@ -1,0 +1,41 @@
+body {
+    background-color: #f0ece2;
+}
+#mainTable, tr, th, td {
+    border-collapse: collapse;
+    border: 1px solid;
+    padding: 30px;
+}
+#headerT {
+    font-size: 40px;
+    font-weight: bold;
+
+}
+#left-side{
+    font-size: 25px;
+    text-align: center;
+    padding: 30px;
+
+}
+#saleBook {
+    padding: 20px;
+}
+#sale {
+    font-weight: bold;
+
+}
+.col-lg-8 {
+    text-align: center;
+    padding: 30px;
+    margin-top: 90px;
+}
+.lead {
+    font-size: 25px;
+}
+.footer .container{
+    text-align: center;
+}
+#summaryTitle {
+    font-weight: bold;
+    font-size: 20px;
+}

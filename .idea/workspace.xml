@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e40017b-b3cd-41c1-a450-5cb923131cbe" name="Changes" comment="" />
+    <list default="true" id="4e40017b-b3cd-41c1-a450-5cb923131cbe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/week2/css/bRus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/imgs/fellow.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3-cardSelector/js/9-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3-cardSelector/js/appPrep.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/9-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/week3-cardSelector/9-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/StickyBootstrapPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/week2/StickyBootstrapPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/aboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/week2/aboutUs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/week2/bootstrap.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,14 +24,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="package.json" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -29,29 +44,36 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/erikavillalpando/Desktop/webstorm/blah/week2/imgs&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "20.17.0",
+    "javascript.nodejs.core.library.typings.version": "20.16.5",
+    "last_opened_file_path": "/Users/erikavillalpando/Desktop/webstorm/blah/week2/imgs",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/week2/imgs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/week3-cardSelector" />
+      <recent name="$PROJECT_DIR$/week3-cardSelector/js" />
       <recent name="$PROJECT_DIR$/week2" />
       <recent name="$PROJECT_DIR$/week 1" />
     </key>
@@ -72,10 +94,25 @@
       <workItem from="1725560410306" duration="6823000" />
       <workItem from="1725659038324" duration="8055000" />
       <workItem from="1725992337811" duration="6099000" />
+      <workItem from="1726165378942" duration="5902000" />
+      <workItem from="1726519195317" duration="8491000" />
+      <workItem from="1726596851392" duration="3431000" />
+      <workItem from="1726600515206" duration="2584000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
