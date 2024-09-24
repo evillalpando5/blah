@@ -7,8 +7,9 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="css/LOTR.css">
     <script src="js/LOR.js"> </script>
+    <link href='https://fonts.googleapis.com/css?family=MedievalSharp' rel='stylesheet'>
 </head>
-<body style="background-color: #C7B8BA" onLoad="characterList()">
+<body style="background-color: #C7B8BA" onLoad="fetchData()">
 <header>
     <nav class="navbar navbar-expand-md navbar-dark " style="background-color: #14322B">
         <div class="container-fluid">
@@ -17,33 +18,28 @@
 <!--                <span class="navbar-toggler-icon"></span>-->
 <!--            </button>-->
             <div class="collapse navbar-collapse" id="navbarCollapse">
-                <h2 style="color: #4B6B56; font-size: 40px"> Lord of the Rings </h2>
+                <h2 style="color: #4B6B56; font-size: 40px" id="title"> Lord of the Rings </h2>
             </div>
         </div>
     </nav>
-
 </header>
 <div class="container-fluid">
     <div class="row custom-row">
         <div class="col-lg-4" id="left-side">
-        <h2> The Lord of the rings card selector </h2>
-
+        <h2 id="leftTitle"> Lord of the Rings Character Selector </h2>
+            <h5 class="titles"> Choose a character: </h5>
             <div class="dropdown">
-                <label for="character"> Choose a character </label>
+                <label for="character">  </label>
                 <select name="character" id="character" >
 
                 </select>
-                <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
-                    <div id="characterList">
-                    </div>
-                </div>
             </div>
-            <button class="btn btn-secondary" type="button" id="loadCharacter" style="background-color: #14322B; color: #C7B8BA" onclick="populateInfo()">
+            <button class="btn btn-secondary" type="button" id="loadCharacter" style="background-color: #14322B; color: #C7B8BA" onclick="populateData()">
                 Show Character Info
             </button>
         </div>
 
-        <div class="col-lg-3" >
+        <div class="col-md-3" id="middle">
 
             <div id="cardImg">
 
@@ -64,7 +60,7 @@
 </div>
 
 
-<footer class="footer mt-auto py-3" style="background-color: #14322B">
+<footer class="footer mt-auto py-3" id="stickyFooter" style="background-color: #14322B">
     <div class="container">
         <span style="color: #C7B8BA"> Made by Erika Villalpando 2024 CSC3700 </span>
     </div>

@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e40017b-b3cd-41c1-a450-5cb923131cbe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week3-cardSelector/js/LOR.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/week2/bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3-cardSelector/9-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/week3-cardSelector/9-12.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week3-cardSelector/LORcardSelector.html" beforeDir="false" afterPath="$PROJECT_DIR$/week3-cardSelector/LORcardSelector.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3-cardSelector/js/9-17.html" beforeDir="false" afterPath="$PROJECT_DIR$/week3-cardSelector/9-17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3-cardSelector/css/LOTR.css" beforeDir="false" afterPath="$PROJECT_DIR$/week3-cardSelector/css/LOTR.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3-cardSelector/js/LOR.js" beforeDir="false" afterPath="$PROJECT_DIR$/week3-cardSelector/js/LOR.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +96,8 @@
       <workItem from="1726686954034" duration="864000" />
       <workItem from="1726770145292" duration="5211000" />
       <workItem from="1726787406416" duration="3753000" />
+      <workItem from="1727028318301" duration="19086000" />
+      <workItem from="1727190079400" duration="7749000" />
     </task>
     <servers />
   </component>

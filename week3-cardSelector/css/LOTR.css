@@ -1,15 +1,52 @@
 #card  {
-    height: 350px;
-
+    height: 400px;
 }
 #mainTable, tr, th, td {
     border-collapse: collapse;
     border: 1px solid;
     padding: 5px;
+    margin-top: 20px;
+}
+#thead {
+    font-weight: bold;
 }
 #infoDisplay{
-    padding: 10px;
+    padding: 30px;
 }
-#results {
-    padding: 15px;
+#left-side{
+    padding: 30px 20px 20px 80px;
+}
+#leftTitle {
+    font-size: 50px;
+}
+body {
+    font-family: 'MedievalSharp';
+}
+header, footer {
+    font-family: sans-serif;
+    color: #C7B8BA
+}
+button{
+    margin-top: 18px;
+}
+#middle {
+    padding-top: 20px;
+}
+img {
+    padding-top: 30px;
+}
+#logo {
+    padding: 0px;
+    height: 150px;
+}
+#stickyFooter {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+}
+#title {
+    float: left;
+    left: 100px;
 }
