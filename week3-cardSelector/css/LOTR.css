@@ -48,5 +48,9 @@ img {
 }
 #title {
     float: left;
-    left: 100px;
+    padding-left: 100px;
+    color: #C7B8BA;
+}
+#title h2 {
+    font-size: 60px;
 }
