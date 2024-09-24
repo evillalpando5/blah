@@ -1,0 +1,15 @@
+#card  {
+    height: 350px;
+
+}
+#mainTable, tr, th, td {
+    border-collapse: collapse;
+    border: 1px solid;
+    padding: 5px;
+}
+#infoDisplay{
+    padding: 10px;
+}
+#results {
+    padding: 15px;
+}
