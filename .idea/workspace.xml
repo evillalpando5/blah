@@ -5,19 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e40017b-b3cd-41c1-a450-5cb923131cbe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week5/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/app2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/app2Continued.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/blah.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blah.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form1/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form1/public/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw1/css/LOTR.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw1/js/LOR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/appRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/public/app2Continued.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/routes/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/routes/nonAdmin.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3-cardSelector/LORcardSelector.html" beforeDir="false" afterPath="$PROJECT_DIR$/week3-cardSelector/LORcardSelector.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3-cardSelector/css/LOTR.css" beforeDir="false" afterPath="$PROJECT_DIR$/week3-cardSelector/css/LOTR.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3-cardSelector/js/LOR.js" beforeDir="false" afterPath="$PROJECT_DIR$/week3-cardSelector/js/LOR.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3-cardSelector/LORcardSelector.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/LORcardSelector.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3-cardSelector/css/LOTR.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3-cardSelector/imgs/LOTRLogo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/imgs/LOTRLogo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3-cardSelector/imgs/aragon.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/imgs/aragon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3-cardSelector/imgs/boromir.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/imgs/boromir.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3-cardSelector/imgs/frodo.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/imgs/frodo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3-cardSelector/imgs/gandalf.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/imgs/gandalf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3-cardSelector/imgs/gimili.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/imgs/gimili.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3-cardSelector/imgs/legolas.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/imgs/legolas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3-cardSelector/imgs/sam.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/imgs/sam.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3-cardSelector/js/LOR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/week4/intro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/week4/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/app2.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/app2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/app2Continued.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,11 +94,11 @@
       <recent name="$PROJECT_DIR$/week2/imgs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/form1/public" />
+      <recent name="$PROJECT_DIR$/hw1/js" />
+      <recent name="$PROJECT_DIR$/hw1" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/week3-cardSelector" />
-      <recent name="$PROJECT_DIR$/week3-cardSelector/js" />
-      <recent name="$PROJECT_DIR$/week2" />
-      <recent name="$PROJECT_DIR$/week 1" />
+      <recent name="$PROJECT_DIR$/week5/public" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -105,7 +126,12 @@
       <workItem from="1726787406416" duration="3753000" />
       <workItem from="1727028318301" duration="19086000" />
       <workItem from="1727190079400" duration="7807000" />
-      <workItem from="1727202283495" duration="4467000" />
+      <workItem from="1727202283495" duration="18932000" />
+      <workItem from="1727232748499" duration="602000" />
+      <workItem from="1727283327713" duration="3000" />
+      <workItem from="1727292568737" duration="2630000" />
+      <workItem from="1727307047618" duration="2099000" />
+      <workItem from="1727374891855" duration="177000" />
     </task>
     <servers />
   </component>

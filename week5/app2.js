@@ -13,7 +13,7 @@ app.use( '/add-product',( req, res, next) => {
     // str += "</br> Author: <input type='text' name='author' />";
     // str += "</br> <button type='submit'> Add Product </button>";
     // res.send(str)
-    res.sendfile(path.join(path.join(__dirname, 'app2Continued.html')));
+    res.sendFile(path.join(path.join(__dirname, 'public/app2Continued.html')));
 })
 app.use('/product', (req, res, next)=> {
     console.log(req.body);

@@ -5,9 +5,9 @@ const requestHandler = (req, res) => {
     const method = req.method;
     if (url === '/') {
         res.setHeader('content-type', 'text/html; charset=uf-8');
-        res.write(`<html> <body> <h2> URL: ${url} </h2>`);
         res.write("<form method='POST' action='/message'>");
-        res.write("<br /> Message <input type='text' name='msg' placeholder='message' />")
+        res.write("<br /> Message <input type='text' name='id' placeholder='userID' />")
+        res.write("<br /> Message <input type='text' name='pw' placeholder='password' />")
         res.write("<br /> <button type='submit'> Submit it </button>")
         res.write(`</form></body></html>`);
         res.end();

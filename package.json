@@ -1,4 +1,16 @@
 {
+  "name": "924_node",
+  "version": "1.0.0",
+  "main": "week5/appRoutes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node week5/appRoutes.js",
+    "start-server": "node  week5/appRoutes.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "devDependencies": {
     "nodemon": "^3.1.7"
   },
